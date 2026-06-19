@@ -30,7 +30,7 @@ The project focuses on data visualization, analysis, and business insights using
 1.task-1/visualizations/charts/Downtime_Per_Device_Type.png 
 Shows which device types failed most frequently.
 
-2. (visualizations/Downtime_Per_Factory.png)
+2. task-1/visualizations/charts/Downtime_Per_Factory.png
 Shows total downtime across all factories.
 3.
 Shows Factory with maximum Downtime.
