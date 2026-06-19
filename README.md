@@ -38,7 +38,7 @@ Shows total downtime across all factories.
 Shows Factory with maximum Downtime.
 
 # (Task-2)
-
+1. task-2/Excel_Data_Analysis/Task 5 Equality Table edited .xlsx
 Performed analysis on employee compensation data using Excel to identify salary distribution patterns and potential inequalities across job roles and departments.
 
 # Outcome
