@@ -27,7 +27,7 @@ The project focuses on data visualization, analysis, and business insights using
  Data storytelling through visualization
 
 # Visualizations 
-# (Task-1)
+# (Task-1) Tableau Data Visualization
 1.Shows which device types failed most frequently.
 ![Downtime per Device Type](task-1/visualizations/charts/Downtime_Per_Device_Type.png) 
 
@@ -37,11 +37,11 @@ The project focuses on data visualization, analysis, and business insights using
 
 
 3.Shows Factory with maximum Downtime.
-![Dashboard Picture](task-1/visualizations/charts/Factory_with_most_Downtime.png
+![Dashboard Picture](task-1/visualizations/charts/Factory_with_most_Downtime.png)
 
-# (Task-2)
+# (Task-2)  Excel Equality Classification
 1. Performed analysis on employee compensation data using Excel to identify salary distribution patterns and potential inequalities across job roles and departments.
-![clean edited excel sheet](task-2/Excel_Data_Analysis/Task 5 Equality Table edited .xlsx)
+[View Excel Output](task-2/Excel_Data_Analysis/Task 5 Equality Table edited .xlsx)
 
 # Outcome
 This project helped strengthen my skills in data analysis, visualization, and interpreting business data for decision-making.
