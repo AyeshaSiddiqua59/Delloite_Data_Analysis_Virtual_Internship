@@ -41,7 +41,7 @@ The project focuses on data visualization, analysis, and business insights using
 
 # (Task-2)  Excel Equality Classification
 1. Performed analysis on employee compensation data using Excel to identify salary distribution patterns and potential inequalities across job roles and departments.
-[View Excel Output](task-2/Excel_Data_Analysis/Task 5 Equality Table edited .xlsx)
+[View Excel Output](task-2/Excel_Data_Analysis/Task_5_Equality_Table_edited.xlsx)
 
 # Outcome
 This project helped strengthen my skills in data analysis, visualization, and interpreting business data for decision-making.
