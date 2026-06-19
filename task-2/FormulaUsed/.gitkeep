@@ -1,1 +1,1 @@
-
+=IF(ABS(C19)<=10,"Fair",IF(ABS(C19)<=20,"Unfair","Highly Discriminative"))
