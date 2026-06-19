@@ -26,14 +26,20 @@ The project focuses on data visualization, analysis, and business insights using
  Excel-based data classification
  Data storytelling through visualization
 
-# Visualizations (Task-1)
+# Visualizations 
+# (Task-1)
 1.task-1/visualizations/charts/Downtime_Per_Device_Type.png 
 Shows which device types failed most frequently.
 
 2. task-1/visualizations/charts/Downtime_Per_Factory.png
 Shows total downtime across all factories.
-3.
+
+3.task-1/visualizations/charts/Factory_with_most_Downtime.png
 Shows Factory with maximum Downtime.
+
+# (Task-2)
+
+Performed analysis on employee compensation data using Excel to identify salary distribution patterns and potential inequalities across job roles and departments.
 
 # Outcome
 This project helped strengthen my skills in data analysis, visualization, and interpreting business data for decision-making.
